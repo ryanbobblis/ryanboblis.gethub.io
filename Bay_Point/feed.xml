@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:2F159A54-92C7-4F30-9958-AF099D916B70</id>
+ <title>Page list Atom feed</title>
+ <updated>2016-10-08T11:54:01-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:DC61ABE5-589A-4B2E-BBDE-C9139415D3DC</id>
+  <title>All Congergations </title>
+  <title xmlns="urn:iweb:">All Congergations </title>
+  <in-navbar xmlns="urn:iweb:">DC61ABE5-589A-4B2E-BBDE-C9139415D3DC</in-navbar>
+  <link rel="alternate" href="All_Congergations.html"/>
+  <updated>2016-10-08T11:54:01.001-07:00</updated>
+  <content>All Congergations </content>
+ </entry>
+ <entry>
+  <id>urn:iweb:69F676B3-FFEE-4BB3-A87F-A30F0AF61F2B</id>
+  <title>Safeway Table</title>
+  <title xmlns="urn:iweb:">Safeway Table</title>
+  <in-navbar xmlns="urn:iweb:">69F676B3-FFEE-4BB3-A87F-A30F0AF61F2B</in-navbar>
+  <link rel="alternate" href="Safeway_Table.html"/>
+  <updated>2016-10-08T11:54:01.002-07:00</updated>
+  <content>Safeway Table</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6876EC3D-847B-444E-A527-2DAECB732387</id>
+  <title>English Locusts</title>
+  <title xmlns="urn:iweb:">English Locusts</title>
+  <in-navbar xmlns="urn:iweb:">6876EC3D-847B-444E-A527-2DAECB732387</in-navbar>
+  <link rel="alternate" href="English_Locusts.html"/>
+  <updated>2016-10-08T11:54:01.003-07:00</updated>
+  <content>English Locusts</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C9F65611-F99B-41B6-A045-BA816CC0AF2D</id>
+  <title>Spanish Locusts</title>
+  <title xmlns="urn:iweb:">Spanish Locusts</title>
+  <in-navbar xmlns="urn:iweb:">C9F65611-F99B-41B6-A045-BA816CC0AF2D</in-navbar>
+  <link rel="alternate" href="Spanish_Locusts.html"/>
+  <updated>2016-10-08T11:54:01.004-07:00</updated>
+  <content>Spanish Locusts</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E7D01937-3559-424F-9D20-2906C4FF25CA</id>
+  <title>Tagalog Locusts</title>
+  <title xmlns="urn:iweb:">Tagalog Locusts</title>
+  <in-navbar xmlns="urn:iweb:">E7D01937-3559-424F-9D20-2906C4FF25CA</in-navbar>
+  <link rel="alternate" href="Tagalog_Locusts.html"/>
+  <updated>2016-10-08T11:54:01.005-07:00</updated>
+  <content>Tagalog Locusts</content>
+ </entry>
+</feed>
